@@ -1,0 +1,44 @@
+Does not compile
+Severity	Code	Description	Project	File	Line	Suppression State
+Error (active)	E0020	identifier "ostream" is undefined	MyString	C:\Users\Anthony Watson\source\repos\prog5-mystring-AnthonyWatson1\MyString\MyString.h	28	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2238	unexpected token(s) preceding ';'	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.h	29	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2238	unexpected token(s) preceding ';'	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.h	28	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2238	unexpected token(s) preceding ';'	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.h	29	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2143	syntax error: missing ';' before '{'	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.cpp	164	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2059	syntax error: 'const'	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.cpp	163	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C4430	missing type specifier - int assumed. Note: C++ does not support default-int	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.h	29	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error (active)	E0020	identifier "ostream" is undefined	MyString	C:\Users\Anthony Watson\source\repos\prog5-mystring-AnthonyWatson1\MyString\MyString.h	28	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2676	binary '>>': 'MyString' does not define this operator or a conversion to a type acceptable to the predefined operator	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\testmystring.cpp	32	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2447	'{': missing function header (old-style formal list?)	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.cpp	164	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2065	'S': undeclared identifier	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.cpp	169	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2872	'ostream': ambiguous symbol	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.cpp	163	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2433	'ostream': 'friend' not permitted on data declarations	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.h	28	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2065	'OS': undeclared identifier	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.cpp	163	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2473	'operator >>': looks like a function definition, but there is no parameter list.	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.cpp	169	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C3867	'MyString::nlength': non-standard syntax; use '&' to create a pointer to member	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.cpp	214	
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2275	'MyString': illegal use of this type as an expression	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.cpp	169	
+
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2872	'istream': ambiguous symbol	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.cpp	169	
+
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2065	'IS': undeclared identifier	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.cpp	169	
+
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2448	'>>': function-style initializer appears to be a function definition	MyString	c:\users\anthony watson\source\repos\prog5-mystring-anthonywatson1\mystring\mystring.cpp	170	
